@@ -1,1 +1,3 @@
-# CS245_2019_P01
+# CS245 - Practice Assignment 1
+
+See assignment details on Canvas.
